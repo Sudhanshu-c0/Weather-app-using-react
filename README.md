@@ -18,12 +18,11 @@ Enter any city name and instantly get real-time weather data powered by the Open
 - ⚠️ Friendly error messages for wrong city names
 - 📱 Fully responsive (mobile-friendly)
 
----
-
 ## 🚀 Getting Started
 
-### 1. Clone the repo
 
+
+### 1. Clone the repo
 ```bash
 git clone https://github.com/Sudhanshu-c0/Weather-app-using-react.git
 cd Weather-app-using-react
