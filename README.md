@@ -93,4 +93,12 @@ weather-app/
 
 ## 📜 License
 
-MIT © [Sudhanshu Sekhar Patra](https://github.com/Sudhanshu-c0)
+MIT License
+
+Copyright © Sudhanshu Sekhar Patra
+
+### Contributors
+
+* [Sudhanshu Sekhar Patra](https://github.com/Sudhanshu-c0)
+* [Hara Prasad Sahu](https://github.com/hara07-h)
+* [Amandeep Kumar] (https://github.com/Amandeep0077)
